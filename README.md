@@ -3,6 +3,15 @@
 提供一个全局命令，用于方便快捷生成模板等相关文件。  
 
 ## 安装
+
+通过 PYPI 安装(推荐)  
+
+```
+pip install djangoshortcuts
+```
+
+通过源码安装  
+
 ```
 python setup.py install
 ```

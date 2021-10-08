@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fl:
 
 setuptools.setup(
     name="djangoshortcuts",
-    version="0.0.3",
+    version="0.0.5",
     author="Zhang",
     author_email="",
     description="Shortcuts to create files easily when using django",
