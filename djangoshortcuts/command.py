@@ -108,7 +108,7 @@ def _handle_static(args, app_path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Easily to create files when use django',
+        description='Easily to create files when using django',
         epilog='You must cd BASE_DIR to run this script',
         formatter_class=CustomFormatter)
     parser.add_argument('--app',
